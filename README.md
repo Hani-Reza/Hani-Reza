@@ -1,5 +1,5 @@
 # 💫 About Me:  
-I'm a motivated software engineer with a strong foundation in **AI, cybersecurity, and full-stack development**. My experience spans **cybersecurity research, AI-driven applications, and network security tools**, backed by hands-on projects and certifications. I'm always looking for innovative solutions and enjoy contributing to open-source projects.  
+I'm a motivated software engineer with a strong foundation in **AI, Machine Learning, and full-stack development**. My experience spans **cybersecurity research, AI-driven applications, and network security tools**, backed by hands-on projects and certifications. I'm always looking for innovative solutions and enjoy contributing to open-source projects.  
 
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hani.reza_)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hani-reza-034001278/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhani2850@gmail.com)  
