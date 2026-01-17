@@ -30,7 +30,7 @@ I'm always open to discussing AI, cybersecurity, or potential collaborations!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hani-reza-034001278/)
 [![Email](https://img.shields.io/badge/Email-mhani2850@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mhani2850@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hani.reza_)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hani.r_)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/Hani-Reza)
 
 # 📊 GitHub Stats:  
