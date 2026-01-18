@@ -39,6 +39,3 @@ I'm always open to discussing AI, cybersecurity, or potential collaborations!
 
 
 
-
-
-.
