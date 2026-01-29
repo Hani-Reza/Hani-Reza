@@ -34,8 +34,8 @@ I'm always open to discussing AI, cybersecurity, or potential collaborations!
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/Hani-Reza)
 
 # 📊 GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=Hani-Reza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hani-Reza&theme=dark&hide_border=false)  
+![Hani-Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hani-Reza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hani-Reza&theme=dark&hide_border=false)  
 
 
 
